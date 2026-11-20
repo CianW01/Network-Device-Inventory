@@ -52,7 +52,3 @@ The program automatically loads previously saved device information from `networ
 | `NetworkDeviceManager.py` | Main Python program |
 | `network_inventory.txt` | Example network device inventory |
 
-## Author
-
-Computer Engineering Student  
-Technological University of the Shannon (TUS)
