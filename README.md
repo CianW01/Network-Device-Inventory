@@ -45,10 +45,3 @@ This program allows users to manage a simple network device inventory through a 
 
 The program automatically loads previously saved device information from `network_inventory.txt` and saves changes when exiting.
 
-## Project Files
-
-| File | Description |
-|---|---|
-| `NetworkDeviceManager.py` | Main Python program |
-| `network_inventory.txt` | Example network device inventory |
-
