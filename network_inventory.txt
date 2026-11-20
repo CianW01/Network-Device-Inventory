@@ -1,0 +1,5 @@
+MainRouter,192.168.1.1,Router,Online
+OfficeSwitch,192.168.1.10,Switch,Online
+FileServer,192.168.1.20,Server,Online
+MainFirewall,192.168.1.30,Firewall,Online
+GuestAP,192.168.1.40,Access Point,Online
