@@ -51,7 +51,7 @@ def registerDevice():
 
     # Checks if the ip address is valid
     if not validateIP(ipAddress):
-        print("Error: IP address rejected. Arasaka firewall says no.")
+        print("Error: IP address not in range. Arasaka firewall says no.")
         return
 
     #Checks if another device is already using this ip address
