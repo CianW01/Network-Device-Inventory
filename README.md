@@ -1,5 +1,4 @@
 # Network-Device-Inventory
-# Network Device Inventory and Monitoring System
 
 A Python-based project developed as part of my Scripting 3.1 coursework at Technological University of the Shannon (TUS).
 
